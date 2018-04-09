@@ -80,6 +80,6 @@ theme: landscape
 deploy:
   type: git
 
-  repo: https://github.com/liyue1995/liyue1995.github.io.git
+  repo: https://github.com/liyue1995/mzym.github.io.git
 
   branch: master
